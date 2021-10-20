@@ -12,3 +12,5 @@ To execute this script you need to be ad least a local admin of the machine in w
 You will have to execute a powershell session as admin, move to the path in wich you've saved the ps1 file and execute it in this way:
 
 ".\Set-ExchangePrerequisites.ps1"
+
+![image](https://user-images.githubusercontent.com/86245948/138171892-d0db5d03-e5a0-442e-9ab1-aedf8451822b.png)
