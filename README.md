@@ -1,5 +1,5 @@
 # Set Exchange Prerequisites
-*This script will help you in Exchange Server 2016 and 2019 prerequisites install process. This script is without mine or Microsoft's garranty. Execution and management of the script is therefore under your direct responsibility.*
+*This script will help you in Exchange Server 2016 and 2019 prerequisites install process. This code is without mine or Microsoft's garranty. Execution and management of the script is therefore under your direct responsibility.*
 
 ## Overview
 
