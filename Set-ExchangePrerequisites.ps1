@@ -2,25 +2,24 @@
 #  SCRIPT DETAILS                                                                                                                                                  #
 #    Installs all requiRed prerequisites for Exchange 2016 for Windows Server 2012 (R2) components or Windows Server 2016, Exchange 2019 on Windows 2019           #
 #        downloading latest Update Rollup, etc.                                                                                                                    #
-#																				                                                                                                                           #
-# SCRIPT VERSION HISTORY																	                                                                                                         #
+#																				   #
+# SCRIPT VERSION HISTORY																	   #
 # Current Version: 1.21                                                                                                                                            #
 #                                                                                                                                                                  #
 #                                                                                                                                                                  #
-# OTHER SCRIPT INFORMATION																	                                                                                                       #
-#                           																	                                                                                                     #		                                                       
-#    Rights RequiRed	: Local admin on server															                                                                                         #													       
-#    Exchange Version	: 2016/2019                                                                                                                                  #
-#    OS Version			: 2012/2012 R2/ 2016/2019													                                                                                             #															   
+# OTHER SCRIPT INFORMATION																	   #
+#                           															                   #
+#    Rights RequiRed	: Local admin on server															   #													       
+#    Exchange Version	: 2016/2019                                                                                                                                #
+#    OS Version			: 2012/2012 R2/ 2016/2019													   #															   
 #                                                                                                                                                                  # 
-#    Disclaimer   		: You are on your own.  This was not written by, supported by, or endorsed by Microsoft.				                                             #								   
-#   							                                                                                                                                                 #                        
+#    Disclaimer   		: You are on your own.  This was not written by, supported by, or endorsed by Microsoft.				           #								   
+#   							                                                                                                           #                                                                                   #
 #                                                                                                                                                                  #
 #                                                                                                                                                                  #
-#                                                                                                                                                                  #
-#												 								                                                                                                                           #
-# EXECUTION																			                                                                                                                   #
-#. \Set-ExchangePrerequisites.ps1														                                                                                                       #
+#												 								   #
+# EXECUTION																			   #
+# .\Set-ExchangePrerequisites.ps1															           #
 ####################################################################################################################################################################
 
 ##################################
