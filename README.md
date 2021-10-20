@@ -20,6 +20,7 @@ You will have to execute a powershell session as admin, move to the path in wich
 ![image](https://user-images.githubusercontent.com/86245948/138175005-779c14c0-f060-4717-9282-d1292e59abc7.png)
 
 
+
 ## Exchange Server supportability matrix
 
 ![image](https://user-images.githubusercontent.com/86245948/138174515-4e304671-975c-44fb-b0a0-9c0494152af5.png)
