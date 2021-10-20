@@ -13,4 +13,6 @@ You will have to execute a powershell session as admin, move to the path in wich
 
 ".\Set-ExchangePrerequisites.ps1"
 
+## Script's screenshot after execution
+
 ![image](https://user-images.githubusercontent.com/86245948/138171892-d0db5d03-e5a0-442e-9ab1-aedf8451822b.png)
