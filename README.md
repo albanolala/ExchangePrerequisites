@@ -15,7 +15,7 @@ You will have to execute a powershell session as admin, move to the path in wich
 
 ## Script overview after execution
 
-*This script checks the Os Version, Exchange server 2016 be installed on Windows 2012,2012R2 or 2016 and Exchange 2019 on Windows 2019. Windows Server 2019 supports only Exchange server 2019*
+*This script checks the OS Version and than calles the function of each version of Exchange Server and OS. Exchange server 2016 can be installed on Windows 2012,2012R2 or 2016 and Exchange 2019 on Windows 2019. At his part Windows Server 2019 supports only Exchange server 2019.*
 
 ![image](https://user-images.githubusercontent.com/86245948/138175005-779c14c0-f060-4717-9282-d1292e59abc7.png)
 
