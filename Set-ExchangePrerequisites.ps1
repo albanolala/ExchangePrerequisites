@@ -4,14 +4,14 @@
 #        downloading latest Update Rollup, etc.                                                                                                                    #
 #																				   #
 # SCRIPT VERSION HISTORY																	   #
-# Current Version: 1.21                                                                                                                                            #
+# Current Version: 1.0                                                                                                                                             #
 #                                                                                                                                                                  #
 #                                                                                                                                                                  #
 # OTHER SCRIPT INFORMATION																	   #
 #                           															                   #
 #    Rights RequiRed	: Local admin on server															   #													       
 #    Exchange Version	: 2016/2019                                                                                                                                #
-#    OS Version			: 2012/2012 R2/ 2016/2019													   #															   
+#    OS Version		: 2012/2012 R2/ 2016/2019													           #															   
 #                                                                                                                                                                  # 
 #    Disclaimer   		: You are on your own.  This was not written by, supported by, or endorsed by Microsoft.				           #								   
 #   							                                                                                                           #                                                                                   #
