@@ -15,4 +15,4 @@ You will have to execute a powershell session as admin, move to the path in wich
 
 ## Script overview after execution
 
-![image](https://user-images.githubusercontent.com/86245948/138171892-d0db5d03-e5a0-442e-9ab1-aedf8451822b.png)
+![image](https://user-images.githubusercontent.com/86245948/138172850-51fc9f0b-7552-4be3-b547-3df3de7b8528.png)
