@@ -23,4 +23,4 @@ You will have to execute a powershell session as admin, move to the path in wich
 
 ## Exchange Server supportability matrix
 
-![image](https://user-images.githubusercontent.com/86245948/138174515-4e304671-975c-44fb-b0a0-9c0494152af5.png)
+![image](https://user-images.githubusercontent.com/86245948/138177850-59377493-bcac-433f-918d-c28372d464f6.png)
